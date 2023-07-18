@@ -1,0 +1,5 @@
+requests~=2.31.0
+numpy~=1.25.1
+scipy~=1.11.1
+pymongo~=4.4.1
+fastapi~=0.100.0
